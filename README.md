@@ -24,7 +24,7 @@ O **Finans** é um aplicativo mobile que permite simular a evolução de um inve
 
 | Tela inicial | Configuração da simulação | Resultados |
 |:---:|:---:|:---:|
-| <img width="1080" height="2424" alt="Image" src="https://github.com/user-attachments/assets/c17a69bf-6462-4658-9c8e-1c02be3917b3" /> | <img width="1080" height="2424" alt="Image" src="https://github.com/user-attachments/assets/527f5768-a389-4139-b686-a75db8326721" /> | <img width="1080" height="2424" alt="Image" src="https://github.com/user-attachments/assets/dfeadde4-5baa-4b4e-ac9f-04eddc73a4bf" /> |
+| <img width="1080" height="2424" alt="Image" src="https://github.com/user-attachments/assets/7edc5a81-562e-4351-b797-dda667d6ade9" /> | <img width="1080" height="2424" alt="Image" src="https://github.com/user-attachments/assets/527f5768-a389-4139-b686-a75db8326721" /> | <img width="1080" height="2424" alt="Image" src="https://github.com/user-attachments/assets/dfeadde4-5baa-4b4e-ac9f-04eddc73a4bf" /> |
 
 > 💡 Salve os prints na pasta `docs/screenshots/` com esses nomes para que as imagens apareçam aqui.
 
